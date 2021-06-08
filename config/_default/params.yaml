@@ -24,11 +24,11 @@ email: test@example.org
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Brasilia 
+  region: DF
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Brazil
+  country_code: BR
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
