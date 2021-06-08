@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luiz Augusto Ferreira Magalhaes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd Candidate at Universidade Catolica de Brasilia and Visiting Fellow at Instituo de Pesquisa Economica Aplicada
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidade Catolica de Brasilia
+  url: https://ucb.catolica.edu.br/
+- name: Instituto de Pesquisa Economica Aplicada
+  url: https://www.ipea.gov.br/portal/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
