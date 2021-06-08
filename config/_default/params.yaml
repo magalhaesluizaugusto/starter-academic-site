@@ -21,17 +21,17 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: magalhaes.luizaugusto@gmail.com
-phone: 888 888 88 88
+phone: 
 address:
-  street: 450 Serra Mall
+  street: Ed. BNDES, SBS Q.1
   city: Brasilia 
   region: DF
-  postcode: '94305'
+  postcode: 70076-900
   country: Brazil
   country_code: BR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '-15.795624375762532' 
+  longitude: '-47.880485673707035'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
