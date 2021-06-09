@@ -6,8 +6,8 @@ title: Luiz Augusto Ferreira Magalhães
 superuser: true
 
 # Role/position/tagline
-role: Phd Candidate at Universidade Catolica de Brasilia 
-role: Visiting Fellow at Instituto de Pesquisa Economica Aplicada
+#role: Phd Candidate at Universidade Catolica de Brasilia and Visiting Fellow at Instituto de Pesquisa Economica Aplicada
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
