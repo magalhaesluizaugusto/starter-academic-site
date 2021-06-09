@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: blog
   icon_pack: fas
-  link: '/magalhaes.luizaugusto@gmail.com'
+  link: http://www.hardrockeconomist.com/
 # icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Luiz Augusto Ferreira Magalhaes is a Phd candidate at Universidade Catolica de Brasilia (UCB) and visiting fellow at Instituto de Pesquisa Economica Aplicada (Ipea). His research interests include banking, futures markets and corporate finance. He is part of a reaseach group at Ipea in partnership with the Economics Ministry, which develops regulatory ideas about demand risk sharing related to transportation concession contracts.
+Luiz Augusto Ferreira Magalhaes is a Phd candidate at Universidade Catolica de Brasilia (UCB) and visiting fellow at Instituto de Pesquisa Economica Aplicada (Ipea). His research interests include banking, futures markets and corporate finance. He is part of a reaseach group at Ipea in partnership with the Economics Ministry, which develops regulatory ideas about demand risk sharing related to transportation concession contracts. He is also the creator of the Hard Rock Economist blog and writes opinion articles for the electronic version of Estadão newspaper.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
