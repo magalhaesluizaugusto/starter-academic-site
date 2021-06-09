@@ -5,7 +5,7 @@ subtitle: Apesar da pandemia, a indústria da música teve uma receita recorde d
 summary: Apesar da pandemia, a indústria da música teve uma receita recorde de 21,6 bilhões de dólares em 2020 mundo afora.
 
 # Link this post with a project
-link: https://politica.estadao.com.br/blogs/fausto-macedo/o-mundo-inteiro-e-um-palco/
+[I'm an external link](https://politica.estadao.com.br/blogs/fausto-macedo/o-mundo-inteiro-e-um-palco/) 
 
 # Date published
 date: "2020-12-13T00:00:00Z"
