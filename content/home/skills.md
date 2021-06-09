@@ -36,6 +36,10 @@ feature:
   icon: money-bill-alt
   icon_pack: fas
   name: Financial Analysis
+- description: ''
+  icon: basketball-ball
+  icon_pack: fas
+  name: Teamwork
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
