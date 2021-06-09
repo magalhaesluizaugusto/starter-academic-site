@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Luiz Augusto Ferreira Magalhaes
+title: Luiz Augusto Ferreira Magalhães
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Phd Candidate at Universidade Catolica de Brasilia and Visiting Fellow at Instituto de Pesquisa Economica Aplicada
+role: Phd Candidate at Universidade Catolica de Brasilia 
+role: Visiting Fellow at Instituto de Pesquisa Economica Aplicada
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Luiz Augusto Ferreira Magalhaes is a Phd candidate at Universidade Catolica de Brasilia (UCB) and visiting fellow at Instituto de Pesquisa Economica Aplicada (Ipea). His research interests include banking, futures markets and corporate finance. He is part of a reaseach group at Ipea in partnership with the Economics Ministry, which develops regulatory ideas about demand risk sharing related to transportation concession contracts. He is also the creator of the Hard Rock Economist blog and writes opinion articles for the electronic version of Estadão newspaper.
+Luiz Augusto Ferreira Magalhães is a Phd candidate at Universidade Catolica de Brasilia (UCB) and visiting fellow at Instituto de Pesquisa Economica Aplicada (Ipea). His research interests include banking, futures markets and corporate finance. He is part of a reaseach group at Ipea in partnership with the Economics Ministry, which develops regulatory ideas about demand risk sharing related to transportation concession contracts. He is also the creator of the Hard Rock Economist blog and writes opinion articles for the electronic version of Estadão newspaper.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
