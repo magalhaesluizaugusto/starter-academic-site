@@ -58,6 +58,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luiz-augusto-magalh%C3%A3es-12026657/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/hardrockeconomist/
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
