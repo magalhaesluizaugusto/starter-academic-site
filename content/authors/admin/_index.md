@@ -20,8 +20,8 @@ bio: My research interests include banking, derivatives and innovation.
 
 # Interests to show in About widget
 interests:
-- Financial Markets
-- Innovation
+- Financial Derivatives
+- Corporate Finance
 - Programming
 
 # Education to show in About widget
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '/magalhaes.luizaugusto@gmail.com'
+# icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: http://lattes.cnpq.br/2666291129366168
+# icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luiz-augusto-magalh%C3%A3es-12026657/
@@ -72,8 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Luiz Augusto Ferreira Magalhaes is a Phd candidate at Universidade Catolica de Brasilia (UCB) and visiting fellow at Instituto de Pesquisa Economica Aplicada (Ipea). His research interests include banking, futures markets and corporate finance. He is part of a reaseach group at Ipea in partnership with the Economics Ministry, which develops regulatory ideas about demand risk sharing related to transportation concession contracts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
