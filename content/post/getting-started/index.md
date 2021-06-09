@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: O mundo inteiro é um palco 
+subtitle: Apesar da pandemia, a indústria da música teve uma receita recorde de 21,6 bilhões de dólares em 2020 mundo afora. Saiba mais em link: https://politica.estadao.com.br/blogs/fausto-macedo/o-mundo-inteiro-e-um-palco/
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -30,7 +30,7 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- Mathias Schneid Tessman
 
 tags:
 - Academic
